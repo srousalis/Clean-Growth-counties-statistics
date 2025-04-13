@@ -8,7 +8,7 @@ The electrical grid data is located in the data/grid_output directory, and the o
 
 Within the code folder, the main script responsible for generating the output is master.py.
 
-The shapefile folder contains county boundary shapefiles sourced from the [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2023.html#list-tab-1883739534)
+The shapefile folder contains county boundary shapefiles sourced from the [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.2023.html#list-tab-1883739534).
 
 
 
