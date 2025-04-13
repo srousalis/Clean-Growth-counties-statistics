@@ -1,5 +1,5 @@
 # Overview:
-This repository provides the code for generating statistics at the U.S. county level using data on the [electrical grid](https://www.dropbox.com/scl/fi/fj879h77amgso5kefeh3s/Replication_Grid.zip?rlkey=lha5an6ypha7xzrghl20vg602&e=1&dl=0) from [Clean Growth](https://static1.squarespace.com/static/5b4b997eda02bc592b5131cd/t/64e38ceeb5dae75b3b9cb7e3/1692634362860/CleanGrowth.pdf) (Arkolakis and Walsh, 2023). 
+This repository provides the code for generating statistics at the U.S. county level using data on the [electricity grid](https://www.dropbox.com/scl/fi/fj879h77amgso5kefeh3s/Replication_Grid.zip?rlkey=lha5an6ypha7xzrghl20vg602&e=1&dl=0) from [Clean Growth](https://static1.squarespace.com/static/5b4b997eda02bc592b5131cd/t/64e38ceeb5dae75b3b9cb7e3/1692634362860/CleanGrowth.pdf) (Arkolakis and Walsh, 2023). 
 
 The code computes the length of transmission lines by maximum capacity category and the generation capacity of power plants by type (fossil, renewable, solar, wind) across U.S. counties.  
 
